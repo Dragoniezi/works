@@ -1,0 +1,40 @@
+.text {
+	text-align: justify;
+	padding: 25pt;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid red;
+	max-width: 1200px;
+}
+.text1 {
+	text-align: justify;
+	padding: 5px;
+	padding-top: 0px;
+}
+.text2 {
+	text-align: justify;
+	padding: 0pt;
+}
+.text3 {
+	text-align: justify;
+	padding: 25pt;
+	padding-bottom: 6px;
+	margin-bottom: 1px;
+}
+.text4 {
+	text-align: justify;
+	padding: 0pt;
+}
+.text5 {
+	text-align: justify;
+	padding: 0pt;
+}
+.container {
+	text-align: justify;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 1200px;
+}
+.i {
+	font-size: 150%;
+}
